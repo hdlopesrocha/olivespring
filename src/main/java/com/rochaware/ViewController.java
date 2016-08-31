@@ -16,7 +16,7 @@ public class ViewController {
 
     @RequestMapping("/")
     public String home(Model model) {
-        return "template";
+        return "fragments/home";
     }
 
 }
