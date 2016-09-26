@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 public class ViewController {
 
     @RequestMapping("/jsp")
-    public String greeting(@RequestParam(value="name", required=false, defaultValue="World") String name, Model model) {
+    public String greeting(@RequestParam(value = "name", required = false, defaultValue = "World") String name, Model model) {
         model.addAttribute("name", name);
         return "var";
     }
@@ -18,5 +18,12 @@ public class ViewController {
     public String home(Model model) {
         return "fragments/home";
     }
+
+    @RequestMapping("/register")
+    public String register(Model model) {
+        return "fragments/register";
+    }
+
+
 
 }

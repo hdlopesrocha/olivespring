@@ -1,81 +1,306 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af4b10a5-1957-4abf-a7fa-a74c1ad500cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_social_facebook_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_social_spring_social_config_1_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_social_spring_social_core_1_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_social_spring_social_facebook_2_0_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_social_spring_social_web_1_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="6ca5644a-583c-4929-9ddb-a09846ad683f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20160810.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/Tools.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/exception/BadRequestException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/exception/ConflictException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/exception/ForbiddenException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/exception/GoneException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/exception/ServiceException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/exception/UnauthorizedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/model/DatabaseObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/service/RegisterUserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/service/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/register.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_4_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_3.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_3.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/Google_signin_button.sketch" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/Google_signin_button.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_dark_disabled_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_dark_disabled_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_dark_focus_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_dark_focus_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_dark_normal_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_dark_normal_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_dark_pressed_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_dark_pressed_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_light_disabled_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_light_disabled_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_light_focus_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_light_focus_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_light_normal_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_light_normal_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_light_pressed_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_light_pressed_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_dark_disabled_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_dark_disabled_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_dark_focus_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_dark_focus_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_dark_normal_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_dark_normal_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_dark_pressed_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_dark_pressed_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_light_disabled_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_light_disabled_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_light_focus_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_light_focus_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_light_normal_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_light_normal_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_light_pressed_hdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/hdpi/btn_google_signin_light_pressed_hdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_dark_disabled_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_dark_disabled_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_dark_focus_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_dark_focus_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_dark_normal_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_dark_normal_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_dark_pressed_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_dark_pressed_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_light_disabled_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_light_disabled_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_light_focus_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_light_focus_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_light_normal_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_light_normal_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_light_pressed_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_light_pressed_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_dark_disabled_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_dark_disabled_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_dark_focus_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_dark_focus_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_dark_normal_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_dark_normal_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_dark_pressed_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_dark_pressed_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_light_disabled_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_light_disabled_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_light_focus_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_light_focus_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_light_normal_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_light_normal_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_light_pressed_ldpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/ldpi/btn_google_signin_light_pressed_ldpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_dark_disabled_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_dark_disabled_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_dark_focus_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_dark_focus_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_dark_normal_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_dark_normal_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_dark_pressed_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_dark_pressed_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_light_disabled_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_light_disabled_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_light_focus_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_light_focus_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_light_normal_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_light_normal_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_light_pressed_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_light_pressed_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_dark_disabled_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_dark_disabled_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_dark_focus_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_dark_focus_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_dark_normal_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_dark_normal_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_dark_pressed_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_dark_pressed_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_light_disabled_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_light_disabled_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_light_focus_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_light_focus_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_light_normal_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_light_normal_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_light_pressed_mdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/mdpi/btn_google_signin_light_pressed_mdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_dark_disabled_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_dark_disabled_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_dark_focus_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_dark_focus_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_dark_normal_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_dark_normal_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_dark_pressed_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_dark_pressed_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_light_disabled_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_light_disabled_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_light_focus_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_light_focus_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_light_normal_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_light_normal_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_light_pressed_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_light_pressed_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_dark_disabled_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_dark_disabled_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_dark_focus_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_dark_focus_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_dark_normal_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_dark_normal_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_dark_pressed_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_dark_pressed_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_light_disabled_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_light_disabled_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_light_focus_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_light_focus_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_light_normal_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_light_normal_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_light_pressed_tvdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/tvdpi/btn_google_signin_light_pressed_tvdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_dark_disabled_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_dark_disabled_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_dark_focus_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_dark_focus_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_dark_normal_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_dark_normal_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_dark_pressed_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_dark_pressed_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_light_disabled_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_light_disabled_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_light_focus_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_light_focus_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_light_normal_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_light_normal_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_light_pressed_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_light_pressed_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_dark_disabled_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_dark_disabled_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_dark_focus_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_dark_focus_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_dark_normal_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_dark_normal_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_dark_pressed_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_dark_pressed_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_light_disabled_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_light_disabled_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_light_focus_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_light_focus_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_light_normal_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_light_normal_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_light_pressed_xhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xhdpi/btn_google_signin_light_pressed_xhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_dark_disabled_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_dark_disabled_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_dark_focus_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_dark_focus_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_dark_normal_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_dark_normal_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_dark_pressed_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_dark_pressed_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_light_disabled_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_light_disabled_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_light_focus_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_light_focus_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_light_normal_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_light_normal_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_light_pressed_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_light_pressed_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_dark_disabled_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_dark_disabled_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_dark_focus_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_dark_focus_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_dark_normal_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_dark_normal_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_dark_pressed_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_dark_pressed_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_light_disabled_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_light_disabled_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_light_focus_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_light_focus_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_light_normal_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_light_normal_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_light_pressed_xxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxhdpi/btn_google_signin_light_pressed_xxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_dark_disabled_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_dark_disabled_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_dark_focus_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_dark_focus_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_dark_normal_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_dark_normal_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_dark_pressed_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_dark_pressed_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_light_disabled_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_light_disabled_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_light_focus_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_light_focus_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_light_normal_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_light_normal_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_light_pressed_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_light_pressed_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_dark_disabled_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_dark_disabled_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_dark_focus_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_dark_focus_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_dark_normal_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_dark_normal_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_dark_pressed_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_dark_pressed_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_light_disabled_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_light_disabled_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_light_focus_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_light_focus_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_light_normal_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_light_normal_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_light_pressed_xxxhdpi.9.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/android/xxxhdpi/btn_google_signin_light_pressed_xxxhdpi.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_dark_disabled_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_dark_disabled_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_dark_focus_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_dark_focus_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_dark_normal_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_dark_normal_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_dark_pressed_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_dark_pressed_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_light_disabled_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_light_disabled_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_light_focus_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_light_focus_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_light_normal_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_light_normal_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_light_pressed_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_light_pressed_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_dark_disabled_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_dark_disabled_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_dark_focus_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_dark_focus_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_dark_normal_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_dark_normal_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_dark_pressed_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_dark_pressed_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_light_disabled_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_light_disabled_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_light_focus_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_light_focus_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_light_normal_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_light_normal_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_light_pressed_ios.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/1x/btn_google_signin_light_pressed_ios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_dark_disabled_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_dark_disabled_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_dark_focus_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_dark_focus_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_dark_normal_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_dark_normal_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_dark_pressed_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_dark_pressed_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_light_disabled_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_light_disabled_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_light_focus_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_light_focus_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_light_normal_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_light_normal_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_light_pressed_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_light_pressed_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_dark_disabled_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_dark_disabled_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_dark_focus_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_dark_focus_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_dark_normal_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_dark_normal_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_dark_pressed_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_dark_pressed_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_light_disabled_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_light_disabled_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_light_focus_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_light_focus_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_light_normal_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_light_normal_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_light_pressed_ios@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/2x/btn_google_signin_light_pressed_ios@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_dark_disabled_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_dark_disabled_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_dark_focus_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_dark_focus_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_dark_normal_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_dark_normal_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_dark_pressed_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_dark_pressed_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_light_disabled_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_light_disabled_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_light_focus_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_light_focus_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_light_normal_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_light_normal_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_light_pressed_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_light_pressed_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_dark_disabled_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_dark_disabled_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_dark_focus_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_dark_focus_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_dark_normal_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_dark_normal_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_dark_pressed_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_dark_pressed_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_light_disabled_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_light_disabled_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_light_focus_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_light_focus_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_light_normal_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_light_normal_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_light_pressed_ios@3x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/ios/3x/btn_google_signin_light_pressed_ios@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_dark_disabled_web.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_dark_disabled_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_dark_focus_web.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_dark_focus_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_dark_normal_web.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_dark_normal_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_dark_pressed_web.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_dark_pressed_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_light_disabled_web.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_light_disabled_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_light_focus_web.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_light_focus_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_light_normal_web.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_light_normal_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_light_pressed_web.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/1x/btn_google_signin_light_pressed_web.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_dark_disabled_web@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_dark_disabled_web@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_dark_focus_web@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_dark_focus_web@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_dark_normal_web@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_dark_normal_web@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_dark_pressed_web@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_dark_pressed_web@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_light_disabled_web@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_light_disabled_web@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_light_focus_web@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_light_focus_web@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_light_normal_web@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_light_normal_web@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_light_pressed_web@2x.png" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/2x/btn_google_signin_light_pressed_web@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/images/bottle1.jpg" afterPath="$PROJECT_DIR$/src/main/resources/static/images/bottle1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/images/bottle2.jpg" afterPath="$PROJECT_DIR$/src/main/resources/static/images/bottle2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/images/bottle3.jpg" afterPath="$PROJECT_DIR$/src/main/resources/static/images/bottle3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/images/icon.png" afterPath="$PROJECT_DIR$/src/main/resources/static/images/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/images/olive.jpg" afterPath="$PROJECT_DIR$/src/main/resources/static/images/olive.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvnw.cmd" afterPath="$PROJECT_DIR$/mvnw.cmd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/olivespring.iml" afterPath="$PROJECT_DIR$/olivespring.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run.sh" afterPath="$PROJECT_DIR$/run.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rochaware/OlivespringApplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/OlivespringApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rochaware/UserRestController.java" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/UserRestController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rochaware/ViewController.java" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/ViewController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rochaware/model/Bill.java" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/model/Bill.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rochaware/model/Item.java" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/model/Item.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rochaware/model/ShoppingCart.java" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/model/ShoppingCart.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rochaware/model/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/rochaware/model/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/css/bootstrap.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/css/business-frontpage.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/business-frontpage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/css/login-form.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/login-form.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/HELP-US-OUT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/screen-reader.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/screen-reader.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_screen-reader.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/src/main/resources/static/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_disabled_ios.eps" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_disabled_ios.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_disabled_ios.svg" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_disabled_ios.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_focus_ios.eps" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_focus_ios.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_focus_ios.svg" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_focus_ios.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_normal_ios.eps" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_normal_ios.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_normal_ios.svg" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_normal_ios.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_pressed_ios.eps" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_pressed_ios.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_pressed_ios.svg" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_dark_pressed_ios.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_disabled_ios.eps" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_disabled_ios.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_disabled_ios.svg" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_disabled_ios.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_focus_ios.eps" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_focus_ios.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_focus_ios.svg" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_focus_ios.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_normal_ios.eps" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_normal_ios.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_normal_ios.svg" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_normal_ios.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_pressed_ios.eps" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_pressed_ios.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_pressed_ios.svg" afterPath="$PROJECT_DIR$/src/main/resources/static/google_signin_buttons/web/vector/btn_google_light_pressed_ios.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.1.0.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.1.0.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/test.html" afterPath="$PROJECT_DIR$/src/main/resources/static/test.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/home.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/template.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/var.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/var.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/rochaware/OlivespringApplicationTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/rochaware/OlivespringApplicationTests.java" />
     </list>
     <ignored path="olivespring.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,31 +321,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/template.html">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="-96">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#844#845#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/model/DatabaseObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="117" column="30" selection-start-line="117" selection-start-column="30" selection-end-line="117" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/home.html">
+      <file leaf-file-name="UserRestController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/UserRestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-197">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="var.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/var.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="288">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -129,24 +360,81 @@
       <file leaf-file-name="ViewController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/ViewController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="306">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" column="76" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="63" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="143" column="14" selection-start-line="143" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegisterUserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/service/RegisterUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#716#717#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$USER_HOME$/gs-async-method/complete" value="1472591675873" />
-      </map>
-    </option>
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
@@ -154,10 +442,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/exception/BadRequestException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/exception/ServiceException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/exception/ConflictException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/exception/ForbiddenException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/exception/GoneException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/exception/UnauthorizedException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/service/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/Tools.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/OlivespringApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/UserRestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/service/RegisterUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/model/DatabaseObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/model/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rochaware/ViewController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/var.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/template.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/register.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/home.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rochaware/ThymeleafConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -167,11 +470,19 @@
         <option name="mavenHome" value="Bundled (Maven 3)" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1056" />
+    <option name="y" value="27" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -198,6 +509,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -270,67 +584,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="olivespring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="olivespring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fragments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="olivespring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="olivespring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
+              <option name="myItemId" value="rochaware" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -359,16 +617,88 @@
               <option name="myItemId" value="rochaware" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olivespring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olivespring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rochaware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olivespring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olivespring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rochaware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exception" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/fragments" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -671,41 +1001,41 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="af4b10a5-1957-4abf-a7fa-a74c1ad500cd" name="Default" comment="" />
-      <created>1472680953097</created>
+      <changelist id="6ca5644a-583c-4929-9ddb-a09846ad683f" name="Default" comment="" />
+      <created>1474876909308</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1472680953097</updated>
+      <updated>1474876909308</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1056" extended-state="6" />
+    <frame x="0" y="27" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -723,38 +1053,277 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/ViewController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/model/ShoppingCart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/var.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/exception/ConflictException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/exception/BadRequestException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/exception/ForbiddenException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/exception/GoneException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/exception/ServiceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/exception/UnauthorizedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="694" column="34" selection-start-line="694" selection-start-column="34" selection-end-line="694" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/model/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/service/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/OlivespringApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/service/RegisterUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/model/DatabaseObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="117" column="30" selection-start-line="117" selection-start-column="30" selection-end-line="117" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/UserRestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/ViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="250">
+          <caret line="143" column="14" selection-start-line="143" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-197">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="540">
+          <caret line="30" column="76" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rochaware/ThymeleafConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="63" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
