@@ -1,7 +1,5 @@
 <!DOCTYPE HTML>
-<html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:th="http://www.thymeleaf.org"
-      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<html xmlns:th="http://www.thymeleaf.org">
 <head>
 
     <meta charset="utf-8"/>
@@ -141,19 +139,14 @@
 
 <!-- Image Background Page Header -->
 <!-- Note: The background image is set within the business-casual.css file. -->
-<div layout:fragment="header">
-
+<div th:replace="${page} :: header">
 </div>
-
 
 
 <!-- Page Content -->
 <div class="container">
-
-    <div layout:fragment="content">
-        <!-- Page content goes here -->
+    <div th:replace="${page} :: content">
     </div>
-
     <!-- Footer -->
     <footer>
         <div class="row">

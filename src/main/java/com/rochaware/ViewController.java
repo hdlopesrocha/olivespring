@@ -4,6 +4,13 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.servlet.ModelAndView;
+import org.springframework.web.servlet.View;
+import org.thymeleaf.Thymeleaf;
+import org.thymeleaf.spring4.view.ThymeleafView;
+import org.thymeleaf.spring4.view.ThymeleafViewResolver;
+
+import java.util.Locale;
 
 @Controller
 public class ViewController {
@@ -16,12 +23,14 @@ public class ViewController {
 
     @RequestMapping("/")
     public String home(Model model) {
-        return "fragments/home";
+        model.addAttribute("page","fragments/home");
+        return "template";
     }
 
     @RequestMapping("/register")
     public String register(Model model) {
-        return "fragments/register";
+        model.addAttribute("page","fragments/register");
+        return "template";
     }
 
 

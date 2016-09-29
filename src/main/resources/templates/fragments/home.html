@@ -1,14 +1,12 @@
 <!DOCTYPE HTML>
-<html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:th="http://www.thymeleaf.org"
-      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
-      layout:decorator="template">
+<html xmlns:th="http://www.thymeleaf.org"
+      th:decorate="~{template}">
 <head>
     <title>Home</title>
 </head>
 <body>
 
-<div layout:fragment="header">
+<div th:fragment="header">
 
 <header class="business-header">
     <div class="container">
@@ -20,13 +18,9 @@
     </div>
 </header>
 </div>
-
-
-<div layout:fragment="content">
-
+<div th:fragment="content">
     <div class="row">
         <div class="col-sm-8">
-
             <h2>What We Do</h2>
             <div class="fb-like" data-share="true" data-width="450" data-show-faces="true">
             </div>

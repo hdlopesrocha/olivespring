@@ -1,0 +1,5 @@
+<root>
+    <item name='org.thymeleaf.spring4.view.ThymeleafView'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
